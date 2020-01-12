@@ -13,7 +13,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-pet-clinic</name>
 	<description>Spring Pet Clinic</description>
-
+	<packaging>pom</packaging>
+	
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -79,4 +80,8 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>pet-clinic-data</module>
+		<module>pet-clinic-web</module>
+	</modules>
 </project>
