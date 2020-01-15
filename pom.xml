@@ -70,11 +70,6 @@
 			</exclusions>
 		</dependency>
 
-		<dependency>
-			<groupId>com.saini.spring.pet</groupId>
-			<artifactId>pet-clinic-data</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 	<build>
