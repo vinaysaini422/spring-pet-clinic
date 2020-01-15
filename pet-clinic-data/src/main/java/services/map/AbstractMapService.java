@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.saini.spring.pet.services.map;
+package services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

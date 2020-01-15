@@ -1,9 +1,9 @@
-package com.saini.spring.pet.services.map;
+package services.map;
 
 import java.util.Set;
 
 import com.saini.spring.pet.model.Vet;
-import com.saini.spring.pet.services.CrudService;
+import services.CrudService;
 
 public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
 

@@ -1,9 +1,9 @@
-package com.saini.spring.pet.services.map;
+package services.map;
 
 import java.util.Set;
 
 import com.saini.spring.pet.model.Person;
-import com.saini.spring.pet.services.CrudService;
+import services.CrudService;
 
 public class PersonServiceMap extends AbstractMapService<Person, Long> implements CrudService<Person, Long> {
 
