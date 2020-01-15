@@ -1,4 +1,4 @@
-package com.saini.spring.pet.services;
+package services;
 
 import com.saini.spring.pet.model.Pet;
 
